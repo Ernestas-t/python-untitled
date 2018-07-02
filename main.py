@@ -1,8 +1,9 @@
 
 def main(msg):
-    #another comment
-    #secondary comment
-    #print a message
+    #v01
     print(msg)
+
+def secondary():
+    print("new function")
 
 main("hello people")
